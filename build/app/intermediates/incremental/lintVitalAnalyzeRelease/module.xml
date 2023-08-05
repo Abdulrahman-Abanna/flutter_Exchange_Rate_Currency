@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="F:\fulters\projct_flutt\flutter_clean_architecture_gold_currency_prices\android\app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.1.2"
+    buildFolder="F:\fulters\projct_flutt\flutter_clean_architecture_gold_currency_prices\build\app"
+    bootClassPath="C:\sdk\platforms\android-33\android.jar;C:\sdk\build-tools\30.0.3\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-33">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

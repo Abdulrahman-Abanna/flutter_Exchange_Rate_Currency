@@ -1,0 +1,4 @@
+#Sat Aug 05 02:30:27 AST 2023
+base.0=F\:\\fulters\\projct_flutt\\flutter_clean_architecture_gold_currency_prices\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
